@@ -1,5 +1,5 @@
 package me.rallings.springboot;
-
+//Resource representation class
 public class Greeting {
 
     private final long id;
